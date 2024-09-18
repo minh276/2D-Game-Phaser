@@ -1,5 +1,7 @@
 # 2D-Game-Phaser
 
+Spiel link: https://kickfuego.netlify.app/
+
 # Phaser Jumping Game
 
 Dies ist ein auf Phaser basierendes Plattformspiel, inspiriert von Doodle Jump. Spieler springen auf Plattformen, weichen Hindernissen aus und sammeln Power-Ups, um Punkte zu sammeln. Das Thema ist die EM_2024 in Deutschland.
