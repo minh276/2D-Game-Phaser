@@ -1,6 +1,6 @@
 # 2D-Game-Phaser
 
-Spiel link: https://kickfuego.netlify.app/
+Spiel link: https://kickfuego.netlify.app
 
 # Phaser Jumping Game
 
